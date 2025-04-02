@@ -34,7 +34,7 @@ function App() {
       age: '65-240 million years',
       location: 'Jurassic Coast, UK',
       date: '2023-04-15',
-      image: 'https://images.unsplash.com/photo-1614513277211-206034b75de7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YW1tb25pdGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60',
+      image: 'https://i.imgur.com/nLdKpf7.jpeg',
       description: 'Found this beauty while hiking!'
     },
     {
@@ -43,7 +43,7 @@ function App() {
       age: '252-541 million years',
       location: 'Utah, USA',
       date: '2023-03-22',
-      image: 'https://images.unsplash.com/photo-1577451254495-67a352d6051e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dHJpbG9iaXRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+      image: 'https://i.imgur.com/iOz0Gd2.jpeg',
       description: 'My first trilobite find! So excited.'
     },
     {
@@ -52,7 +52,7 @@ function App() {
       age: '65-485 million years',
       location: 'Colorado, USA',
       date: '2023-05-03',
-      image: 'https://images.unsplash.com/photo-1606041008023-472dfb5e530f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9zc2lsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
+      image: 'https://i.imgur.com/MEddclD.jpeg',
       description: 'Found several of these in a limestone bed.'
     }
   ];
